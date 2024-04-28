@@ -22,6 +22,30 @@
       },
       "revId": "6ff7e71c820d880ad79ab5e3b56f6adfe1e71a23",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "e934dcae_c8a061fa",
+        "filename": "basic/non_plat/mtk_hal_usb.te",
+        "patchSetId": 1
+      },
+      "lineNbr": 15,
+      "author": {
+        "id": 13648
+      },
+      "writtenOn": "2024-04-28T17:02:35Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "133e51b4_d600a0a7",
+      "range": {
+        "startLine": 15,
+        "startChar": 0,
+        "endLine": 15,
+        "endChar": 48
+      },
+      "revId": "6ff7e71c820d880ad79ab5e3b56f6adfe1e71a23",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
