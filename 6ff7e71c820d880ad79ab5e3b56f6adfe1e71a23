@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "133e51b4_d600a0a7",
+        "filename": "basic/non_plat/mtk_hal_usb.te",
+        "patchSetId": 1
+      },
+      "lineNbr": 15,
+      "author": {
+        "id": 13648
+      },
+      "writtenOn": "2024-04-28T16:51:26Z",
+      "side": 1,
+      "message": "Remove this then or overwrite it here.",
+      "range": {
+        "startLine": 15,
+        "startChar": 0,
+        "endLine": 15,
+        "endChar": 48
+      },
+      "revId": "6ff7e71c820d880ad79ab5e3b56f6adfe1e71a23",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
