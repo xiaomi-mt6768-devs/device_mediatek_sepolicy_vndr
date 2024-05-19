@@ -1,2 +1,9 @@
 allow hal_power_default proc_perfmgr:dir search;
 allow hal_power_default proc_perfmgr:file rw_file_perms;
+
+# To do powerhint on nodes defined in powerhint.json
+rw_dir_file(hal_power_default, sysfs_devices_system_cpu)
+rw_dir_file(hal_power_default, sysfs_dvfsrc_devfreq)
+rw_dir_file(hal_power_default, sysfs_mali_freq)
+rw_dir_file(hal_power_default, proc_gpufreqv2)
+rw_dir_file(hal_power_default, cgroup)

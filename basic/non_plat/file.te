@@ -339,6 +339,8 @@ type sysfs_eara_thermal, fs_type, sysfs_type;
 # Purpose: add permission for /sys/class/misc/mali0/device/pm_poweroff
 type sysfs_mali_poweroff, fs_type, sysfs_type;
 
+type sysfs_mali_freq, fs_type, sysfs_type;
+
 # Date : 2020/12/14
 # Purpose: allow dumpstate/crash_dump/aee_aedv to read /sys/kernel/mm/mlog/dump
 type sysfs_mm, fs_type, sysfs_type;

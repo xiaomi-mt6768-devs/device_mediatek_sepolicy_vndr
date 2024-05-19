@@ -515,6 +515,9 @@ genfscon sysfs /kernel/eara_thermal/ u:object_r:sysfs_eara_thermal:s0
 genfscon sysfs /class/misc/mali0/device/pm_poweroff        u:object_r:sysfs_mali_poweroff:s0
 genfscon sysfs /devices/platform/13000000.mali/pm_poweroff u:object_r:sysfs_mali_poweroff:s0
 
+genfscon sysfs /devices/platform/13000000.mali/devfreq/13000000.mali/min_freq u:object_r:sysfs_mali_freq:s0
+genfscon sysfs /devices/platform/13000000.mali/devfreq/13000000.mali/max_freq u:object_r:sysfs_mali_freq:s0
+
 # Date: 2021/05/28
 # Purpose: allow DcxoSetCap set dcxo calibration
 genfscon sysfs /devices/platform/soc/1000d000.pwrap/1000d000.pwrap:mt6357-pmic/mt6357-dcxo/dcxo_board_offset u:object_r:sysfs_dcxo:s0
