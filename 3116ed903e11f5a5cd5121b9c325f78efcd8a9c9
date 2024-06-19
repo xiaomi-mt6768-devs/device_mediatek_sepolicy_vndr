@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "e7b443f8_05ffde1b",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 32253
+      },
+      "writtenOn": "2024-06-19T07:47:49Z",
+      "side": 1,
+      "message": "`m selinux_policy` passes fine",
+      "revId": "3116ed903e11f5a5cd5121b9c325f78efcd8a9c9",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
