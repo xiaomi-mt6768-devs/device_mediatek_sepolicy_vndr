@@ -16,6 +16,24 @@
       "message": "If that passes `m selinux_policy` also on Lineage 20 it should be fine (i don\u0027t have any MTK Lineage 20 targets with me to test it unfortunately)",
       "revId": "27f4590d36bfefe1b66493dca5842891c187f5b2",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "815251a7_66d96eb8",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 33707
+      },
+      "writtenOn": "2024-06-21T01:17:18Z",
+      "side": 1,
+      "message": "yes, I have tested it myself, it was a major issue on my lancelot for years",
+      "parentUuid": "3c5e332d_64ec24b7",
+      "revId": "27f4590d36bfefe1b66493dca5842891c187f5b2",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ],
   "submitRequirementResults": []
