@@ -318,3 +318,7 @@ allow mtk_hal_power sysfs_dvfsrc_dbg:file rw_file_perms;
 # allow powerhal to access /proc/mgq
 allow mtk_hal_power proc_mgq:dir r_dir_perms;
 allow mtk_hal_power proc_mgq:file w_file_perms;
+
+# Date: 2024/6/21
+# allow mtk_hal_power to read vendor_thermal_prop
+get_prop(mtk_hal_power, vendor_thermal_prop)
