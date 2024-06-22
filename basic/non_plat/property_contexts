@@ -280,6 +280,9 @@ vendor.voicerecognize.noDL     u:object_r:vendor_mtk_voicerecgnize_prop:s0
 # mtk bt enable SAP profile property
 ro.vendor.mtk.bt_sap_enable u:object_r:vendor_mtk_bt_sap_enable_prop:s0
 
+# MTK powerhal
+vendor.mediatek.powerhal.   u:object_r:vendor_power_prop:s0
+
 # powerhal config
 persist.vendor.powerhal. u:object_r:vendor_power_prop:s0
 vendor.powerhal.gpu.     u:object_r:vendor_mtk_powerhal_gpu_prop:s0
