@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "84c62864_8ba4f18d",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 24110
+      },
+      "writtenOn": "2024-06-24T17:17:27Z",
+      "side": 1,
+      "message": "Tested on Volla Phone 22 with newest changes of GS5-unified device tree",
+      "revId": "484ffb38fb18f9e7ad986e1056e77283b47ea5c5",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
