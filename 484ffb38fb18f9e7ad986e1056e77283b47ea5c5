@@ -33,6 +33,24 @@
       "message": "This issue was on lineage 20 also ?",
       "revId": "484ffb38fb18f9e7ad986e1056e77283b47ea5c5",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "7b23f7cb_6a4412ec",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 28024
+      },
+      "writtenOn": "2024-06-25T02:23:18Z",
+      "side": 1,
+      "message": "It\u0027s not dependent on platform version, rather this denial is introduced with alps t0 V15.x update from MediaTek, so whichever OEM/ODM switched to newer BSP, this issue is present on all of them.",
+      "parentUuid": "78beea45_beb3634c",
+      "revId": "484ffb38fb18f9e7ad986e1056e77283b47ea5c5",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
