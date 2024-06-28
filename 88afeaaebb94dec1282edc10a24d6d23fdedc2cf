@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "767ae291_a67a0788",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 32222
+      },
+      "writtenOn": "2024-06-28T13:14:50Z",
+      "side": 1,
+      "message": "What is the point of this? MediaTek devices moved to the common Lineage libperfmgr HAL, and that uses vendor.powerhal. prefix. I don\u0027t see this prefix being used by the stock perf HAL either.",
+      "revId": "88afeaaebb94dec1282edc10a24d6d23fdedc2cf",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
