@@ -16,6 +16,24 @@
       "message": "Did you run",
       "revId": "d9d2a897d8808d75e63a57de32417fcd0fbd5b4f",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "ff8b186f_ea2475d2",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 33707
+      },
+      "writtenOn": "2024-08-26T16:35:52Z",
+      "side": 1,
+      "message": "\u003e Did you run m selinux_policy?",
+      "parentUuid": "4117db05_372bbc19",
+      "revId": "d9d2a897d8808d75e63a57de32417fcd0fbd5b4f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
