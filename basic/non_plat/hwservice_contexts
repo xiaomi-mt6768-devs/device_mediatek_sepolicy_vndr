@@ -92,3 +92,8 @@ vendor.mediatek.hardware.bluetooth.audio::IBluetoothAudioProvidersFactory u:obje
 vendor.mediatek.hardware.composer_ext::IComposerExt u:object_r:mtk_hal_composer_ext_hwservice:s0
 
 vendor.mediatek.hardware.mtkcodecservice::IMtkCodecService u:object_r:hal_mtkcodecservice_hwservice:s0
+
+# Date: 2024/08/26
+# Goodix Cap
+vendor.goodix.hardware.cap.biometrics.fingerprint::IGoodixFingerprintDaemon u:object_r:hal_fingerprint_hwservice_xiaomi:s0
+vendor.goodix.hardware.cap.biometrics.fingerprint::IGoodixFingerprintDaemonExt u:object_r:hal_fingerprint_hwservice_xiaomi:s0
