@@ -51,6 +51,41 @@
       "message": "I don\u0027t have any mtk devices. I need this in common policy for tegra, see the other change in the topic. Both together do need verified on a current mtk target using the property before merge, though.",
       "revId": "d9d2a897d8808d75e63a57de32417fcd0fbd5b4f",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "00b9689d_a26d5ca7",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 32253
+      },
+      "writtenOn": "2024-08-29T21:35:15Z",
+      "side": 1,
+      "message": "Shouldn\u0027t really be a problem. Also, no current MTK device uses this on LineageOS.",
+      "parentUuid": "b788e5dc_78ec7aff",
+      "revId": "d9d2a897d8808d75e63a57de32417fcd0fbd5b4f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "2043224e_a9fbc722",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 32253
+      },
+      "writtenOn": "2024-08-29T21:35:15Z",
+      "side": 1,
+      "message": "Shouldn\u0027t really be an issue",
+      "revId": "d9d2a897d8808d75e63a57de32417fcd0fbd5b4f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
