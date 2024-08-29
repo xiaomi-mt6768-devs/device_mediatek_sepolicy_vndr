@@ -146,3 +146,6 @@ allow init xcap_socket:sock_file create_file_perms;
 
 # Allow init to write to sysfs_devices_block
 allow init sysfs_devices_block:file w_file_perms;
+
+# Allow hal_fingerprint_default to use ptrace
+allow vendor_init hal_fingerprint_default:process ptrace;
