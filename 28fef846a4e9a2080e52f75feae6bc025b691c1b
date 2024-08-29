@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "988de24f_a39f453a",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 32253
+      },
+      "writtenOn": "2024-08-29T21:30:44Z",
+      "side": 1,
+      "message": "Move that to your Xiaomi tree (`hal_fingerprint_hwservice_xiaomi` is not a common label).",
+      "revId": "28fef846a4e9a2080e52f75feae6bc025b691c1b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
