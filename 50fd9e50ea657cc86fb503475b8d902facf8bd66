@@ -33,6 +33,23 @@
       "message": "See Luk point ^",
       "revId": "50fd9e50ea657cc86fb503475b8d902facf8bd66",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "6c8a107a_d2491c0d",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 33707
+      },
+      "writtenOn": "2024-08-30T02:13:39Z",
+      "side": 1,
+      "message": "This is necessary for the init process to debug and monitor the behavior of the fingerprint HAL, which is responsible for interacting with the fingerprint sensor.\n\nbug: W android.hardwar: type\u003d1400 audit(0.0:72): avc:  denied  { ptrace } for  scontext\u003du:r:init:s0 tcontext\u003du:r:hal_fingerprint_default:s0 tclass\u003dprocess permissive\u003d0\n\nRef: https://github.com/LMODroid/platform_device_mediatek_sepolicy_vndr/commit/c2f4277b9bae9a9d93a2a1c80b308b2cdd96eb10#diff-119f939e8396090dc2b1e1fd0adc75900777a5f3fd122c3508e1a9fbe6f03f68R171",
+      "revId": "50fd9e50ea657cc86fb503475b8d902facf8bd66",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
