@@ -85,6 +85,24 @@
       "message": "As said previously, I don\u0027t see any point on this change.",
       "revId": "50fd9e50ea657cc86fb503475b8d902facf8bd66",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "0b30ef55_82643b74",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 33707
+      },
+      "writtenOn": "2024-08-31T17:12:33Z",
+      "side": 1,
+      "message": "As from my view I saw 4 to 5 mtk devices having the same issue, actually it\u0027s a extension for \n\nhttps://review.lineageos.org/c/LineageOS/android_hardware_xiaomi/+/400186",
+      "parentUuid": "587e4091_80989d08",
+      "revId": "50fd9e50ea657cc86fb503475b8d902facf8bd66",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
