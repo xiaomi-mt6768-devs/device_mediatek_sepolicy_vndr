@@ -103,6 +103,23 @@
       "parentUuid": "587e4091_80989d08",
       "revId": "50fd9e50ea657cc86fb503475b8d902facf8bd66",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "c43704b6_864f9a74",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 33707
+      },
+      "writtenOn": "2024-08-31T17:13:45Z",
+      "side": 1,
+      "message": "And also this is a denial so fixing it won\u0027t cause any issues I guess",
+      "revId": "50fd9e50ea657cc86fb503475b8d902facf8bd66",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
