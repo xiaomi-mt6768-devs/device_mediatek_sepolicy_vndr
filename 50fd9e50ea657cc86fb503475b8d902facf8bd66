@@ -138,6 +138,24 @@
       "parentUuid": "c43704b6_864f9a74",
       "revId": "50fd9e50ea657cc86fb503475b8d902facf8bd66",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "5076444d_f52e38fd",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 33707
+      },
+      "writtenOn": "2024-09-05T01:30:43Z",
+      "side": 1,
+      "message": "https://github.com/LMODroid/platform_device_mediatek_sepolicy_vndr/blob/fourteen/basic/non_plat/init.te#L167\n\nhttps://github.com/LineageOS/android_device_xiaomi_Mi439/blob/lineage-21/biometrics/sepolicy/init.te#L1",
+      "parentUuid": "5d13712e_d43eb1b6",
+      "revId": "50fd9e50ea657cc86fb503475b8d902facf8bd66",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
